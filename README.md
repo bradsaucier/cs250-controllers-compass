@@ -9,6 +9,19 @@ B.S. Candidate, Computer Science (STEM Project Management), Southern New Hampshi
 B.A., Columbia University  
 A.A.S., Community College of the Air Force  
 
+## Table of Contents
+
+- [Overview](#overview)
+- [Core Artifact](#core-artifact)
+- [CS 250 Journal Reflection (Essential Questions)](#cs-250-journal-reflection-essential-questions)
+  - [1. How do I interpret user needs and implement them into a program? How does creating user stories help with this?](#1-how-do-i-interpret-user-needs-and-implement-them-into-a-program-how-does-creating-user-stories-help-with-this)
+  - [2. How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?](#2-how-do-i-approach-developing-programs-what-agile-processes-do-i-hope-to-incorporate-into-my-future-development-work)
+  - [3. What does it mean to be a good team member in software development?](#3-what-does-it-mean-to-be-a-good-team-member-in-software-development)
+- [Addressing Project Feedback](#addressing-project-feedback)
+- [Repository Structure and Professionalization Layer](#repository-structure-and-professionalization-layer)
+- [File Inventory and Intent](#file-inventory-and-intent)
+- [Academic Integrity and Citation Policy](#academic-integrity-and-citation-policy)
+
 ## Overview
 
 This repository contains the final project artifact for SNHU CS 250: Software Development Lifecycle. The core academic deliverable is a Sprint Review and Retrospective analysis for the "SNHU Travel" Minimum Viable Product (MVP).
