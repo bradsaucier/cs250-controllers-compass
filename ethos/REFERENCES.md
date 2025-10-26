@@ -8,7 +8,6 @@ Each entry includes a canonical source and a permalink. When a DOI exists, it is
 
 2. Beck, Kent; Beedle, Mike; van Bennekum, Arie; Cockburn, Alistair; Cunningham, Ward; Fowler, Martin; et al. 2001. "Manifesto for Agile Software Development."
    - Canonical: https://agilemanifesto.org/
-   - Backup PDF: https://www.agilealliance.org/wp-content/uploads/2019/09/agile-manifesto-download-2019.pdf
    - Permalink: https://web.archive.org/web/*/https://agilemanifesto.org/
 
 3. Boyd, John R. 2018. *A Discourse on Winning and Losing.* Edited by Grant T. Hammond. Maxwell AFB, AL: Air University Press.
@@ -41,7 +40,3 @@ Each entry includes a canonical source and a permalink. When a DOI exists, it is
 9. Eveleens, Jan Laurenz; Verhoef, Chris. 2010. "The Rise and Fall of the Chaos Report Figures." *IEEE Software* 27(1): 30-36.
    - Canonical DOI: https://doi.org/10.1109/MS.2009.154
    - Open copy (preprint): https://www.cs.vu.nl/~x/the_rise_and_fall_of_the_chaos_report_figures.pdf
-
-10. Google Cloud. 2020. "Using the Four Keys to measure your DevOps performance," September 22, 2020.
-    - Canonical: https://cloud.google.com/blog/products/devops-sre/using-the-four-keys-to-measure-your-devops-performance
-    - Permalink: https://web.archive.org/web/*/https://cloud.google.com/blog/products/devops-sre/using-the-four-keys-to-measure-your-devops-performance
