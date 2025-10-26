@@ -1,0 +1,13 @@
+{
+  "default": true,
+
+  // MD013: line length
+  "MD013": false,
+
+  // MD041: first line should be a top-level heading
+  "MD041": false,
+
+  // MD034: no-bare-urls
+  // Disabled. Bare URLs are intentional in REFERENCES.md for clarity and auditability.
+  "MD034": false
+}

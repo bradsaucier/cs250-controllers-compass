@@ -1,0 +1,79 @@
+# Generic .gitignore
+#
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (libraries)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Build directories
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+[Mm]in[Ss]ize[Rr]el/
+[Rr]el[Ww]ith[Dd]eb[Ii]nfo/
+[Aa]rch64/
+[Ii]386/
+[Xx]86_64/
+[Aa][Mm][Dd]64/
+_build/
+build/
+build-debug/
+build-release/
+bin/
+*/bin/
+
+# IDE config files
+.idea/
+.vscode/
+*.swp
+*~
+*.bak
+*.tmp
+*.orig
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+env/
+pip-wheel-metadata/
+
+# Java
+*.class
+*.log
+*.jar
+*.war
+*.ear
+target/
+.gradle/
